@@ -10,6 +10,5 @@ Este aplicativo web interativo, desenvolvido com Streamlit, permite explorar dad
 
 Basta executar o aplicativo e interagir com os botões para gerar as visualizações!
 
-Link do aplicativo > 
+Link do aplicativo > https://projeto-tripleten-d6at.onrender.com
 
-https://github.com/ricardoitomarques/Projeto-TripleTen.git
